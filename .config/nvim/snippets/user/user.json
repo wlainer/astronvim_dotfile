@@ -1,0 +1,8 @@
+{
+  "destructThemeProps": {
+    "key": "destructThemeProps",
+    "prefix": "dtp",
+    "body": ["\\${({${1:first}}) => ${2:second}}"],
+    "scope": "typescript,typescriptreact,javascript,javascriptreact"
+  }
+}
